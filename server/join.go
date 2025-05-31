@@ -1,6 +1,6 @@
 package server
 
-import (
+import (https://discord.gg/5uwHrZgQ
 	"Raid-Client/cloudflare"
 	"Raid-Client/constants"
 	"Raid-Client/tools"
